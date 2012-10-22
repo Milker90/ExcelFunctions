@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<meadinkent>
+<record>
+<category>Database</category>
+<function>DAVERAGE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209045.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the average of selected database entries</description>
+</record>
+<record>
+<category>Database</category>
+<function>DCOUNT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209049.aspx?CTT=5+origin=HP005204211</url>
+<description>Counts the cells that contain numbers in a database</description>
+</record>
+<record>
+<category>Database</category>
+<function>DCOUNTA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209050.aspx?CTT=5+origin=HP005204211</url>
+<description>Counts nonblank cells in a database</description>
+</record>
+<record>
+<category>Database</category>
+<function>DGET</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209059.aspx?CTT=5+origin=HP005204211</url>
+<description>Extracts from a database a single record that matches the specified criteria</description>
+</record>
+<record>
+<category>Database</category>
+<function>DMAX</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209061.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the maximum value from selected database entries</description>
+</record>
+<record>
+<category>Database</category>
+<function>DMIN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209062.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the minimum value from selected database entries</description>
+</record>
+<record>
+<category>Database</category>
+<function>DPRODUCT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209066.aspx?CTT=5+origin=HP005204211</url>
+<description>Multiplies the values in a particular field of records that match the criteria in a database</description>
+</record>
+<record>
+<category>Database</category>
+<function>DSTDEV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209067.aspx?CTT=5+origin=HP005204211</url>
+<description>Estimates the standard deviation based on a sample of selected database entries</description>
+</record>
+<record>
+<category>Database</category>
+<function>DSTDEVP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209068.aspx?CTT=5+origin=HP005204211</url>
+<description>Calculates the standard deviation based on the entire population of selected database entries</description>
+</record>
+<record>
+<category>Database</category>
+<function>DSUM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209069.aspx?CTT=5+origin=HP005204211</url>
+<description>Adds the numbers in the field column of records in the database that match the criteria</description>
+</record>
+<record>
+<category>Database</category>
+<function>DVAR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209071.aspx?CTT=5+origin=HP005204211</url>
+<description>Estimates variance based on a sample from selected database entries</description>
+</record>
+<record>
+<category>Database</category>
+<function>DVARP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209072.aspx?CTT=5+origin=HP005204211</url>
+<description>Calculates variance based on the entire population of selected database entries</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>DATE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209042.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the serial number of a particular date</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>DATEVALUE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209044.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a date in the form of text to a serial number</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>DAY</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209046.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a serial number to a day of the month</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>DAYS360</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209047.aspx?CTT=5+origin=HP005204211</url>
+<description>Calculates the number of days between two dates based on a 360-day year</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>EDATE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209073.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the serial number of the date that is the indicated number of months before or after the start date</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>EOMONTH</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209076.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the serial number of the last day of the month before or after a specified number of months</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>HOUR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209115.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a serial number to an hour</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>MINUTE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209178.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a serial number to a minute</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>MONTH</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209184.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a serial number to a month</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>NETWORKDAYS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209190.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of whole workdays between two dates</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>NOW</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209197.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the serial number of the current date and time</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>SECOND</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209251.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a serial number to a second</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>TIME</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209315.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the serial number of a particular time</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>TIMEVALUE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209316.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a time in the form of text to a serial number</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>TODAY</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209318.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the serial number of today's date</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>WEEKDAY</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209336.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a serial number to a day of the week</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>WEEKNUM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209337.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a serial number to a number representing where the week falls numerically with a year</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>WORKDAY</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209339.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the serial number of the date before or after a specified number of workdays</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>YEAR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209343.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a serial number to a year</description>
+</record>
+<record>
+<category>Date and time</category>
+<function>YEARFRAC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209344.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the year fraction representing the number of whole days between start_date and end_date</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>BESSELI</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208996.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the modified Bessel function In(x)</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>BESSELJ</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208997.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the Bessel function Jn(x)</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>BESSELK</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208998.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the modified Bessel function Kn(x)</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>BESSELY</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208999.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the Bessel function Yn(x)</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>BIN2DEC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209002.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a binary number to decimal</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>BIN2HEX</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209003.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a binary number to hexadecimal</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>BIN2OCT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209004.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a binary number to octal</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>COMPLEX</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209019.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts real and imaginary coefficients into a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>CONVERT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209022.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a number from one measurement system to another</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>DEC2BIN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209053.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a decimal number to binary</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>DEC2HEX</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209054.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a decimal number to hexadecimal</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>DEC2OCT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209055.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a decimal number to octal</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>DELTA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209057.aspx?CTT=5+origin=HP005204211</url>
+<description>Tests whether two values are equal</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>ERF</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209077.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the error function</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>ERFC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209078.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the complementary error function</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>GESTEP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209106.aspx?CTT=5+origin=HP005204211</url>
+<description>Tests whether a number is greater than a threshold value</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>HEX2BIN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209110.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a hexadecimal number to binary</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>HEX2DEC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209111.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a hexadecimal number to decimal</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>HEX2OCT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209112.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a hexadecimal number to octal</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMABS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209119.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the absolute value (modulus) of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMAGINARY</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209120.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the imaginary coefficient of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMARGUMENT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209121.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the argument theta, an angle expressed in radians</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMCONJUGATE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209122.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the complex conjugate of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMCOS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209123.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the cosine of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMDIV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209124.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the quotient of two complex numbers</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMEXP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209125.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the exponential of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMLN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209126.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the natural logarithm of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMLOG10</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209127.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the base-10 logarithm of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMLOG2</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209128.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the base-2 logarithm of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMPOWER</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209129.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a complex number raised to an integer power</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMPRODUCT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209130.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the product of from 2 to 29 complex numbers</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMREAL</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209131.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the real coefficient of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMSIN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209132.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sine of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMSQRT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209133.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the square root of a complex number</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMSUB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209134.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the difference between two complex numbers</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>IMSUM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209135.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sum of complex numbers</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>OCT2BIN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209200.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts an octal number to binary</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>OCT2DEC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209201.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts an octal number to decimal</description>
+</record>
+<record>
+<category>Engineering</category>
+<function>OCT2HEX</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209202.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts an octal number to hexadecimal</description>
+</record>
+<record>
+<category>Financial</category>
+<function>ACCRINT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208979.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the accrued interest for a security that pays periodic interest</description>
+</record>
+<record>
+<category>Financial</category>
+<function>ACCRINTM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208980.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the accrued interest for a security that pays interest at maturity</description>
+</record>
+<record>
+<category>Financial</category>
+<function>AMORDEGRC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208984.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the depreciation for each accounting period by using a depreciation coefficient</description>
+</record>
+<record>
+<category>Financial</category>
+<function>AMORLINC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208985.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the depreciation for each accounting period</description>
+</record>
+<record>
+<category>Financial</category>
+<function>COUPDAYBS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209030.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of days from the beginning of the coupon period to the settlement date</description>
+</record>
+<record>
+<category>Financial</category>
+<function>COUPDAYS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209031.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of days in the coupon period that contains the settlement date</description>
+</record>
+<record>
+<category>Financial</category>
+<function>COUPDAYSNC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209032.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of days from the settlement date to the next coupon date</description>
+</record>
+<record>
+<category>Financial</category>
+<function>COUPNCD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209033.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the next coupon date after the settlement date</description>
+</record>
+<record>
+<category>Financial</category>
+<function>COUPNUM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209034.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of coupons payable between the settlement date and maturity date</description>
+</record>
+<record>
+<category>Financial</category>
+<function>COUPPCD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209035.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the previous coupon date before the settlement date</description>
+</record>
+<record>
+<category>Financial</category>
+<function>CUMIPMT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209038.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the cumulative interest paid between two periods</description>
+</record>
+<record>
+<category>Financial</category>
+<function>CUMPRINC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209039.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the cumulative principal paid on a loan between two periods</description>
+</record>
+<record>
+<category>Financial</category>
+<function>DB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209048.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the depreciation of an asset for a specified period by using the fixed-declining balance method</description>
+</record>
+<record>
+<category>Financial</category>
+<function>DDB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209051.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the depreciation of an asset for a specified period by using the double-declining balance method or some other method that you specify</description>
+</record>
+<record>
+<category>Financial</category>
+<function>DISC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209060.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the discount rate for a security</description>
+</record>
+<record>
+<category>Financial</category>
+<function>DOLLARDE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209064.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a dollar price, expressed as a fraction, into a dollar price, expressed as a decimal number</description>
+</record>
+<record>
+<category>Financial</category>
+<function>DOLLARFR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209065.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a dollar price, expressed as a decimal number, into a dollar price, expressed as a fraction</description>
+</record>
+<record>
+<category>Financial</category>
+<function>DURATION</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209070.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the annual duration of a security with periodic interest payments</description>
+</record>
+<record>
+<category>Financial</category>
+<function>EFFECT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209074.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the effective annual interest rate</description>
+</record>
+<record>
+<category>Financial</category>
+<function>FV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209099.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the future value of an investment</description>
+</record>
+<record>
+<category>Financial</category>
+<function>FVSCHEDULE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209100.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the future value of an initial principal after applying a series of compound interest rates</description>
+</record>
+<record>
+<category>Financial</category>
+<function>INTRATE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209144.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the interest rate for a fully invested security</description>
+</record>
+<record>
+<category>Financial</category>
+<function>IPMT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209145.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the interest payment for an investment for a given period</description>
+</record>
+<record>
+<category>Financial</category>
+<function>IRR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209146.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the internal rate of return for a series of cash flows</description>
+</record>
+<record>
+<category>Financial</category>
+<function>ISPMT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005250840.aspx?CTT=5+origin=HP005204211</url>
+<description>Calculates the interest paid during a specific period of an investment</description>
+</record>
+<record>
+<category>Financial</category>
+<function>MDURATION</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209173.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the Macauley modified duration for a security with an assumed par value of $100</description>
+</record>
+<record>
+<category>Financial</category>
+<function>MIRR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209180.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the internal rate of return where positive and negative cash flows are financed at different rates</description>
+</record>
+<record>
+<category>Financial</category>
+<function>NOMINAL</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209191.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the annual nominal interest rate</description>
+</record>
+<record>
+<category>Financial</category>
+<function>NPER</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209198.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of periods for an investment</description>
+</record>
+<record>
+<category>Financial</category>
+<function>NPV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209199.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the net present value of an investment based on a series of periodic cash flows and a discount rate</description>
+</record>
+<record>
+<category>Financial</category>
+<function>ODDFPRICE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209204.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the price per $100 face value of a security with an odd first period</description>
+</record>
+<record>
+<category>Financial</category>
+<function>ODDFYIELD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209205.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the yield of a security with an odd first period</description>
+</record>
+<record>
+<category>Financial</category>
+<function>ODDLPRICE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209206.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the price per $100 face value of a security with an odd last period</description>
+</record>
+<record>
+<category>Financial</category>
+<function>ODDLYIELD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209207.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the yield of a security with an odd last period</description>
+</record>
+<record>
+<category>Financial</category>
+<function>PMT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209215.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the periodic payment for an annuity</description>
+</record>
+<record>
+<category>Financial</category>
+<function>PPMT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209218.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the payment on the principal for an investment for a given period</description>
+</record>
+<record>
+<category>Financial</category>
+<function>PRICE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209219.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the price per $100 face value of a security that pays periodic interest</description>
+</record>
+<record>
+<category>Financial</category>
+<function>PRICEDISC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209220.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the price per $100 face value of a discounted security</description>
+</record>
+<record>
+<category>Financial</category>
+<function>PRICEMAT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209221.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the price per $100 face value of a security that pays interest at maturity</description>
+</record>
+<record>
+<category>Financial</category>
+<function>PV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209225.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the present value of an investment</description>
+</record>
+<record>
+<category>Financial</category>
+<function>RATE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209232.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the interest rate per period of an annuity</description>
+</record>
+<record>
+<category>Financial</category>
+<function>RECEIVED</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209233.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the amount received at maturity for a fully invested security</description>
+</record>
+<record>
+<category>Financial</category>
+<function>SLN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209263.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the straight-line depreciation of an asset for one period</description>
+</record>
+<record>
+<category>Financial</category>
+<function>SYD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209302.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sum-of-years' digits depreciation of an asset for a specified period</description>
+</record>
+<record>
+<category>Financial</category>
+<function>TBILLEQ</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209309.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the bond-equivalent yield for a Treasury bill</description>
+</record>
+<record>
+<category>Financial</category>
+<function>TBILLPRICE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209310.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the price per $100 face value for a Treasury bill</description>
+</record>
+<record>
+<category>Financial</category>
+<function>TBILLYIELD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209311.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the yield for a Treasury bill</description>
+</record>
+<record>
+<category>Financial</category>
+<function>VDB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209334.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the depreciation of an asset for a specified or partial period by using a declining balance method</description>
+</record>
+<record>
+<category>Financial</category>
+<function>XIRR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209341.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the internal rate of return for a schedule of cash flows that is not necessarily periodic</description>
+</record>
+<record>
+<category>Financial</category>
+<function>XNPV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209342.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the net present value for a schedule of cash flows that is not necessarily periodic</description>
+</record>
+<record>
+<category>Financial</category>
+<function>YIELD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209345.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the yield on a security that pays periodic interest</description>
+</record>
+<record>
+<category>Financial</category>
+<function>YIELDDISC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209346.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the annual yield for a discounted security; for example, a Treasury bill</description>
+</record>
+<record>
+<category>Financial</category>
+<function>YIELDMAT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209347.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the annual yield of a security that pays interest at maturity</description>
+</record>
+<record>
+<category>Information</category>
+<function>CELL</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209008.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns information about the formatting, location, or contents of a cell</description>
+</record>
+<record>
+<category>Information</category>
+<function>ERROR.TYPE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209079.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a number corresponding to an error type</description>
+</record>
+<record>
+<category>Information</category>
+<function>INFO</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209140.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns information about the current operating environment</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISBLANK</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209147.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the value is blank</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISERR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209147.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the value is any error value except #N/A</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISERROR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209147.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the value is any error value</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISEVEN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209148.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the number is even</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISLOGICAL</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209147.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the value is a logical value</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISNA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209147.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the value is the #N/A error value</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISNONTEXT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209147.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the value is not text</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISNUMBER</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209147.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the value is a number</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISODD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209149.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the number is odd</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISREF</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209147.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the value is a reference</description>
+</record>
+<record>
+<category>Information</category>
+<function>ISTEXT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209147.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if the value is text</description>
+</record>
+<record>
+<category>Information</category>
+<function>N</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209187.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a value converted to a number</description>
+</record>
+<record>
+<category>Information</category>
+<function>NA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209188.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the error value #N/A</description>
+</record>
+<record>
+<category>Information</category>
+<function>TYPE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209326.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a number indicating the data type of a value</description>
+</record>
+<record>
+<category>Logic</category>
+<function>AND</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208986.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if all of its arguments are TRUE</description>
+</record>
+<record>
+<category>Logic</category>
+<function>0 </function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209086.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the logical value FALSE</description>
+</record>
+<record>
+<category>Logic</category>
+<function>IF</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209118.aspx?CTT=5+origin=HP005204211</url>
+<description>Specifies a logical test to perform</description>
+</record>
+<record>
+<category>Logic</category>
+<function>NOT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209196.aspx?CTT=5+origin=HP005204211</url>
+<description>Reverses the logic of its argument</description>
+</record>
+<record>
+<category>Logic</category>
+<function>OR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209209.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns TRUE if any argument is TRUE</description>
+</record>
+<record>
+<category>Logic</category>
+<function>(1)</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209323.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the logical value TRUE</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>ADDRESS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208983.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a reference as text to a single cell in a worksheet</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>AREAS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208987.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of areas in a reference</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>CHOOSE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209013.aspx?CTT=5+origin=HP005204211</url>
+<description>Chooses a value from a list of values</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>COLUMN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209016.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the column number of a reference</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>COLUMNS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209017.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of columns in a reference</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>GETPIVOTDATA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209107.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns data stored in a PivotTable</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>HLOOKUP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209114.aspx?CTT=5+origin=HP005204211</url>
+<description>Looks in the top row of an array and returns the value of the indicated cell</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>HYPERLINK</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209116.aspx?CTT=5+origin=HP005204211</url>
+<description>Creates a shortcut or jump that opens a document stored on a network server, an intranet, or the Internet</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>INDEX</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209138.aspx?CTT=5+origin=HP005204211</url>
+<description>Uses an index to choose a value from a reference or array</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>INDIRECT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209139.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a reference indicated by a text value</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>LOOKUP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209163.aspx?CTT=5+origin=HP005204211</url>
+<description>Looks up values in a vector or array</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>MATCH</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209168.aspx?CTT=5+origin=HP005204211</url>
+<description>Looks up values in a reference or array</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>OFFSET</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209208.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a reference offset from a given reference</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>ROW</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209244.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the row number of a reference</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>ROWS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209246.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of rows in a reference</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>RTD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP003066237.aspx?CTT=5+origin=HP005204211</url>
+<description>Retrieves real-time data from a program that supports?COM automation</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>TRANSPOSE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209319.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the transpose of an array</description>
+</record>
+<record>
+<category>Lookup And Reference</category>
+<function>VLOOKUP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209335.aspx?CTT=5+origin=HP005204211</url>
+<description>Looks in the first column of an array and moves across the row to return the value of a cell</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ABS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208978.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the absolute value of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ACOS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208981.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the arccosine of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ACOSH</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208982.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse hyperbolic cosine of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ASIN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208988.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the arcsine of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ASINH</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208989.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse hyperbolic sine of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ATAN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208990.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the arctangent of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ATAN2</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208991.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the arctangent from x- and y-coordinates</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ATANH</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208992.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse hyperbolic tangent of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>CEILING</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209007.aspx?CTT=5+origin=HP005204211</url>
+<description>Rounds a number to the nearest integer or to the nearest multiple of significance</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>COMBIN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209018.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of combinations for a given number of objects</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>COS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209024.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the cosine of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>COSH</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209025.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the hyperbolic cosine of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>DEGREES</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209056.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts radians to degrees</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>EVEN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209080.aspx?CTT=5+origin=HP005204211</url>
+<description>Rounds a number up to the nearest even integer</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>EXP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209082.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns? e? raised to the power of a given number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>FACT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209084.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the factorial of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>FACTDOUBLE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209085.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the double factorial of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>FLOOR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209094.aspx?CTT=5+origin=HP005204211</url>
+<description>Rounds a number down, toward zero</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>GCD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209104.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the greatest common divisor</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>INT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209142.aspx?CTT=5+origin=HP005204211</url>
+<description>Rounds a number down to the nearest integer</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>LCM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209152.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the least common multiple</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>LN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209156.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the natural logarithm of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>LOG</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209157.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the logarithm of a number to a specified base</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>LOG10</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209158.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the base-10 logarithm of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>MDETERM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209172.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the matrix determinant of an array</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>MINVERSE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209179.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the matrix inverse of an array</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>MMULT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209181.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the matrix product of two arrays</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>MOD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209182.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the remainder from division</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>MROUND</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209185.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a number rounded to the desired multiple</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>MULTINOMIAL</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209186.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the multinomial of a set of numbers</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ODD</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209203.aspx?CTT=5+origin=HP005204211</url>
+<description>Rounds a number up to the nearest odd integer</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>PI</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209214.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the value of pi</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>POWER</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209217.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the result of a number raised to a power</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>PRODUCT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209223.aspx?CTT=5+origin=HP005204211</url>
+<description>Multiplies its arguments</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>QUOTIENT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209227.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the integer portion of a division</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>RADIANS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209228.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts degrees to radians</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>RAND</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209229.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a random number between 0 and 1</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>RANDBETWEEN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209230.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a random number between the numbers you specify</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ROMAN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209238.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts an arabic numeral to roman, as text</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ROUND</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209239.aspx?CTT=5+origin=HP005204211</url>
+<description>Rounds a number to a specified number of digits</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ROUNDDOWN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209241.aspx?CTT=5+origin=HP005204211</url>
+<description>Rounds a number down, toward zero</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>ROUNDUP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209242.aspx?CTT=5+origin=HP005204211</url>
+<description>Rounds a number up, away from zero</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SERIESSUM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209253.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sum of a power series based on the formula</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SIGN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209255.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sign of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SIN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209257.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sine of the given angle</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SINH</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209259.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the hyperbolic sine of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SQRT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209269.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a positive square root</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SQRTPI</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209271.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the square root of (number * pi)</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SUBTOTAL</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209288.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a subtotal in a list or database</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SUM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209290.aspx?CTT=5+origin=HP005204211</url>
+<description>Adds its arguments</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SUMIF</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209292.aspx?CTT=5+origin=HP005204211</url>
+<description>Adds the cells specified by a given criteria</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SUMPRODUCT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209293.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sum of the products of corresponding array components</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SUMSQ</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209295.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sum of the squares of the arguments</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SUMX2MY2</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209297.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sum of the difference of squares of corresponding values in two arrays</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SUMX2PY2</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209299.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sum of the sum of squares of corresponding values in two arrays</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>SUMXMY2</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209301.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sum of squares of differences of corresponding values in two arrays</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>TAN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209306.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the tangent of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>TANH</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209308.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the hyperbolic tangent of a number</description>
+</record>
+<record>
+<category>Math and trigonometry</category>
+<function>TRUNC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209324.aspx?CTT=5+origin=HP005204211</url>
+<description>Truncates a number to an integer</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>AVEDEV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208993.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the average of the absolute deviations of data points from their mean</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>AVERAGE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208994.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the average of its arguments</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>AVERAGEA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005208995.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the average of its arguments, including numbers, text, and logical values</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>BETADIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209000.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the beta cumulative distribution function</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>BETAINV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209001.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse of the cumulative distribution function for a specified beta distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>BINOMDIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209005.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the individual term binomial distribution probability</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>CHIDIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209010.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the one-tailed probability of the chi-squared distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>CHIINV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209011.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse of the one-tailed probability of the chi-squared distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>CHITEST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209012.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the test for independence</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>CONFIDENCE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209021.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the confidence interval for a population mean</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>CORREL</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209023.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the correlation coefficient between two data sets</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>COUNT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209026.aspx?CTT=5+origin=HP005204211</url>
+<description>Counts how many numbers are in the list of arguments</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>COUNTA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209027.aspx?CTT=5+origin=HP005204211</url>
+<description>Counts how many values are in the list of arguments</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>COUNTBLANK</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209028.aspx?CTT=5+origin=HP005204211</url>
+<description>Counts the number of blank cells within a range</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>COUNTIF</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209029.aspx?CTT=5+origin=HP005204211</url>
+<description>Counts the number of nonblank cells within a range that meet the given criteria</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>COVAR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209036.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns covariance, the average of the products of paired deviations</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>CRITBINOM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209037.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the smallest value for which the cumulative binomial distribution is less than or equal to a criterion value</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>DEVSQ</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209058.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the sum of squares of deviations</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>EXPONDIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209083.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the exponential distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>FDIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209087.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the F probability distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>FINV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209090.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse of the F probability distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>FISHER</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209091.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the Fisher transformation</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>FISHERINV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209092.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse of the Fisher transformation</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>FORECAST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209096.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a value along a linear trend</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>FREQUENCY</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209097.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a frequency distribution as a vertical array</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>FTEST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209098.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the result of an F-test</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>GAMMADIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209101.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the gamma distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>GAMMAINV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209102.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse of the gamma cumulative distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>GAMMALN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209103.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the natural logarithm of the gamma function, £F(x)</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>GEOMEAN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209105.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the geometric mean</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>GROWTH</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209108.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns values along an exponential trend</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>HARMEAN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209109.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the harmonic mean</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>HYPGEOMDIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209117.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the hypergeometric distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>INTERCEPT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209143.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the intercept of the linear regression line</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>KURT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209150.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the kurtosis of a data set</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>LARGE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209151.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the k-th largest value in a data set</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>LINEST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209155.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the parameters of a linear trend</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>LOGEST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209159.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the parameters of an exponential trend</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>LOGINV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209161.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse of the lognormal distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>LOGNORMDIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209162.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the cumulative lognormal distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>MAX</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209170.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the maximum value in a list of arguments</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>MAXA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209171.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the maximum value in a list of arguments, including numbers, text, and logical values</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>MEDIAN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209174.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the median of the given numbers</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>MIN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209176.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the minimum value in a list of arguments</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>MINA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209177.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the smallest value in a list of arguments, including numbers, text, and logical values</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>MODE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209183.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the most common value in a data set</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>NEGBINOMDIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209189.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the negative binomial distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>NORMDIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209192.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the normal cumulative distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>NORMINV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209193.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse of the normal cumulative distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>NORMSDIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209194.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the standard normal cumulative distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>NORMSINV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209195.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse of the standard normal cumulative distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>PEARSON</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209210.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the Pearson product moment correlation coefficient</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>PERCENTILE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209211.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the k-th percentile of values in a range</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>PERCENTRANK</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209212.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the percentage rank of a value in a data set</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>PERMUT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209213.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of permutations for a given number of objects</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>POISSON</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209216.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the Poisson distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>PROB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209222.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the probability that values in a range are between two limits</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>QUARTILE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209226.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the quartile of a data set</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>RANK</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209231.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the rank of a number in a list of numbers</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>RSQ</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209247.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the square of the Pearson product moment correlation coefficient</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>SKEW</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209261.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the skewness of a distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>SLOPE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209264.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the slope of the linear regression line</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>SMALL</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209266.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the k-th smallest value in a data set</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>STANDARDIZE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209273.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a normalized value</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>STDEV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209277.aspx?CTT=5+origin=HP005204211</url>
+<description>Estimates standard deviation based on a sample</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>STDEVA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209279.aspx?CTT=5+origin=HP005204211</url>
+<description>Estimates standard deviation based on a sample, including numbers, text, and logical values</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>STDEVP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209281.aspx?CTT=5+origin=HP005204211</url>
+<description>Calculates standard deviation based on the entire population</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>STDEVPA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209283.aspx?CTT=5+origin=HP005204211</url>
+<description>Calculates standard deviation based on the entire population, including numbers, text, and logical values</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>STEYX</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209284.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the standard error of the predicted y-value for each x in the regression</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>TDIST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209312.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the Student's t-distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>TINV</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209317.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the inverse of the Student's t-distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>TREND</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209320.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns values along a linear trend</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>TRIMMEAN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209322.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the mean of the interior of a data set</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>TTEST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209325.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the probability associated with a Student's t-test</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>VAR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209330.aspx?CTT=5+origin=HP005204211</url>
+<description>Estimates variance based on a sample</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>VARA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209331.aspx?CTT=5+origin=HP005204211</url>
+<description>Estimates variance based on a sample, including numbers, text, and logical values</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>VARP</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209332.aspx?CTT=5+origin=HP005204211</url>
+<description>Calculates variance based on the entire population</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>VARPA</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209333.aspx?CTT=5+origin=HP005204211</url>
+<description>Calculates variance based on the entire population, including numbers, text, and logical values</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>WEIBULL</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209338.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the Weibull distribution</description>
+</record>
+<record>
+<category>Statistical </category>
+<function>ZTEST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209348.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the one-tailed probability-value of a z-test</description>
+</record>
+<record>
+<category>Text</category>
+<function>ASC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005250836.aspx?CTT=5+origin=HP005204211</url>
+<description>Changes full-width (double-byte) English letters or katakana within a character string to half-width (single-byte) characters</description>
+</record>
+<record>
+<category>Text</category>
+<function>BAHTTEXT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP003084328.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a number to text, using the s (baht) currency format</description>
+</record>
+<record>
+<category>Text</category>
+<function>CHAR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209009.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the character specified by the code number</description>
+</record>
+<record>
+<category>Text</category>
+<function>CLEAN</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209014.aspx?CTT=5+origin=HP005204211</url>
+<description>Removes all nonprintable characters from text</description>
+</record>
+<record>
+<category>Text</category>
+<function>CODE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209015.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a numeric code for the first character in a text string</description>
+</record>
+<record>
+<category>Text</category>
+<function>CONCATENATE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209020.aspx?CTT=5+origin=HP005204211</url>
+<description>Joins several text items into one text item</description>
+</record>
+<record>
+<category>Text</category>
+<function>DOLLAR</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209063.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a number to text, using the $ (dollar) currency format</description>
+</record>
+<record>
+<category>Text</category>
+<function>EXACT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209081.aspx?CTT=5+origin=HP005204211</url>
+<description>Checks to see if two text values are identical</description>
+</record>
+<record>
+<category>Text</category>
+<function>FIND, FINDB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209089.aspx?CTT=5+origin=HP005204211</url>
+<description>Finds one text value within another (case-sensitive)</description>
+</record>
+<record>
+<category>Text</category>
+<function>FIXED</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209093.aspx?CTT=5+origin=HP005204211</url>
+<description>Formats a number as text with a fixed number of decimals</description>
+</record>
+<record>
+<category>Text</category>
+<function>JIS</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005250838.aspx?CTT=5+origin=HP005204211</url>
+<description>Changes half-width (single-byte) English letters or katakana within a character string to full-width (double-byte) characters</description>
+</record>
+<record>
+<category>Text</category>
+<function>LEFT, LEFTB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209153.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the leftmost characters from a text value</description>
+</record>
+<record>
+<category>Text</category>
+<function>LEN, LENB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209154.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the number of characters in a text string</description>
+</record>
+<record>
+<category>Text</category>
+<function>LOWER</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209167.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts text to lowercase</description>
+</record>
+<record>
+<category>Text</category>
+<function>MID, MIDB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209175.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns a specific number of characters from a text string starting at the position you specify</description>
+</record>
+<record>
+<category>Text</category>
+<function>PHONETIC</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005250841.aspx?CTT=5+origin=HP005204211</url>
+<description>Extracts the phonetic (furigana) characters from a text string</description>
+</record>
+<record>
+<category>Text</category>
+<function>PROPER</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209224.aspx?CTT=5+origin=HP005204211</url>
+<description>Capitalizes the first letter in each word of a text value</description>
+</record>
+<record>
+<category>Text</category>
+<function>REPLACE, REPLACEB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209235.aspx?CTT=5+origin=HP005204211</url>
+<description>Replaces characters within text</description>
+</record>
+<record>
+<category>Text</category>
+<function>REPT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209236.aspx?CTT=5+origin=HP005204211</url>
+<description>Repeats text a given number of times</description>
+</record>
+<record>
+<category>Text</category>
+<function>RIGHT, RIGHTB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209237.aspx?CTT=5+origin=HP005204211</url>
+<description>Returns the rightmost characters from a text value</description>
+</record>
+<record>
+<category>Text</category>
+<function>SEARCH, SEARCHB</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209249.aspx?CTT=5+origin=HP005204211</url>
+<description>Finds one text value within another (not case-sensitive)</description>
+</record>
+<record>
+<category>Text</category>
+<function>SUBSTITUTE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209286.aspx?CTT=5+origin=HP005204211</url>
+<description>Substitutes new text for old text in a text string</description>
+</record>
+<record>
+<category>Text</category>
+<function>T</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209304.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts its arguments to text</description>
+</record>
+<record>
+<category>Text</category>
+<function>TEXT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209313.aspx?CTT=5+origin=HP005204211</url>
+<description>Formats a number and converts it to text</description>
+</record>
+<record>
+<category>Text</category>
+<function>TRIM</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209321.aspx?CTT=5+origin=HP005204211</url>
+<description>Removes spaces from text</description>
+</record>
+<record>
+<category>Text</category>
+<function>UPPER</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209327.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts text to uppercase</description>
+</record>
+<record>
+<category>Text</category>
+<function>VALUE</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209329.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a text argument to a number</description>
+</record>
+<record>
+<category>Extension</category>
+<function>EUROCONVERT</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005290988.aspx?CTT=5+origin=HP005204211</url>
+<description>Converts a number to euros, converts a number from euros to a euro member currency, or converts a number from one euro member currency to another by using the euro as an intermediary (triangulation)</description>
+</record>
+<record>
+<category>Extension</category>
+<function>SQL.REQUEST</function>
+<url>http://office.microsoft.com/en-us/excel-help/redir/HP005209267.aspx?CTT=5+origin=HP005204211</url>
+<description>Connects with an external data source and runs a query from a worksheet, then returns the result as an array without the need for macro programming</description>
+</record>
+</meadinkent>

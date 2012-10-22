@@ -7,9 +7,16 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ExcelXMLDataObject.h"
 
 @interface PCAppDelegate : UIResponder <UIApplicationDelegate>
+{
+    @public
+    ExcelXMLDataObject  *object;
+}
 
 @property (strong, nonatomic) UIWindow *window;
+
+@property (strong, nonatomic) ExcelXMLDataObject    *object;
 
 @end
