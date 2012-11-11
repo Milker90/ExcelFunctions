@@ -7,7 +7,8 @@
 //
 
 #import "ExcelRootTableViewController.h"
-#import "PCXMLParser.h"
+#import "ExcelXMLParser.h"
+#import "ExcelXMLDataObject.h"
 
 @interface ExcelRootTableViewController ()
 
@@ -209,6 +210,7 @@ static ExcelRootTableViewController *instance = nil;
     dirPaths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
     docsDir = [dirPaths objectAtIndex:0];
     datafile = [docsDir stringByAppendingPathComponent: @"xl_xml_data.xml"];
+    NSLog(@"%@", datafile);
     if ([filemgr isReadableFileAtPath:datafile] == YES) {
         databuffer = [filemgr contentsAtPath:datafile];
         [self doParse:databuffer];
@@ -221,7 +223,7 @@ static ExcelRootTableViewController *instance = nil;
     NSXMLParser *nsXmlParser = [[NSXMLParser alloc] initWithData:data];
     
     // create and init our delegate
-    PCXMLParser *parser = [[PCXMLParser alloc] initXMLParser];
+    ExcelXMLParser *parser = [[ExcelXMLParser alloc] initXMLParser];
     
     // set delegate
     [nsXmlParser setDelegate:parser];

@@ -11,7 +11,6 @@
 		CD17C55B16267FCC003D4D9F /* ExcelRootTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD17C55A16267FCB003D4D9F /* ExcelRootTableViewController.m */; };
 		CD17C55F162680A3003D4D9F /* ExcelSecondLevelTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD17C55E162680A3003D4D9F /* ExcelSecondLevelTableViewController.m */; };
 		CD17C562162680D0003D4D9F /* ExcelDetailsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD17C561162680D0003D4D9F /* ExcelDetailsViewController.m */; };
-		CD17C5721626B1ED003D4D9F /* PCXMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = CD17C5711626B1ED003D4D9F /* PCXMLParser.m */; };
 		CD17C5751626BADD003D4D9F /* ExcelXMLDataObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CD17C5741626BADD003D4D9F /* ExcelXMLDataObject.m */; };
 		CD73A3A71624217A00FC7E70 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD73A3A61624217A00FC7E70 /* UIKit.framework */; };
 		CD73A3A91624217A00FC7E70 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD73A3A81624217A00FC7E70 /* Foundation.framework */; };
@@ -26,6 +25,7 @@
 		CD73A3CD1624217B00FC7E70 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD73A3A81624217A00FC7E70 /* Foundation.framework */; };
 		CD73A3D51624217B00FC7E70 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD73A3D31624217B00FC7E70 /* InfoPlist.strings */; };
 		CD73A3D81624217B00FC7E70 /* ExcelFunctionsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = CD73A3D71624217B00FC7E70 /* ExcelFunctionsTests.m */; };
+		CDB0F2D7164D0D94006B741A /* ExcelXMLParser.m in Sources */ = {isa = PBXBuildFile; fileRef = CDB0F2D6164D0D94006B741A /* ExcelXMLParser.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,13 +41,11 @@
 /* Begin PBXFileReference section */
 		CD0479B9162FBE9B00955625 /* iAd.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = iAd.framework; path = System/Library/Frameworks/iAd.framework; sourceTree = SDKROOT; };
 		CD17C55916267FCB003D4D9F /* ExcelRootTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExcelRootTableViewController.h; sourceTree = "<group>"; };
-		CD17C55A16267FCB003D4D9F /* ExcelRootTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExcelRootTableViewController.m; sourceTree = "<group>"; };
+		CD17C55A16267FCB003D4D9F /* ExcelRootTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ExcelRootTableViewController.m; path = /Users/patrick/Desktop/iPhoneApps/ExcelFunctions/ExcelFunctions/ExcelRootTableViewController.m; sourceTree = "<absolute>"; };
 		CD17C55D162680A3003D4D9F /* ExcelSecondLevelTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExcelSecondLevelTableViewController.h; sourceTree = "<group>"; };
 		CD17C55E162680A3003D4D9F /* ExcelSecondLevelTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExcelSecondLevelTableViewController.m; sourceTree = "<group>"; };
 		CD17C560162680D0003D4D9F /* ExcelDetailsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExcelDetailsViewController.h; sourceTree = "<group>"; };
 		CD17C561162680D0003D4D9F /* ExcelDetailsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExcelDetailsViewController.m; sourceTree = "<group>"; };
-		CD17C5701626B1ED003D4D9F /* PCXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PCXMLParser.h; path = ../../HelloWorld/HelloWorld/PCXMLParser.h; sourceTree = "<group>"; };
-		CD17C5711626B1ED003D4D9F /* PCXMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PCXMLParser.m; path = ../../HelloWorld/HelloWorld/PCXMLParser.m; sourceTree = "<group>"; };
 		CD17C5731626BADD003D4D9F /* ExcelXMLDataObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExcelXMLDataObject.h; sourceTree = "<group>"; };
 		CD17C5741626BADD003D4D9F /* ExcelXMLDataObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExcelXMLDataObject.m; sourceTree = "<group>"; };
 		CD73A3A21624217A00FC7E70 /* ExcelFunctions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExcelFunctions.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -72,6 +70,8 @@
 		CD73A3D41624217B00FC7E70 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		CD73A3D61624217B00FC7E70 /* ExcelFunctionsTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ExcelFunctionsTests.h; sourceTree = "<group>"; };
 		CD73A3D71624217B00FC7E70 /* ExcelFunctionsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ExcelFunctionsTests.m; sourceTree = "<group>"; };
+		CDB0F2D5164D0D94006B741A /* ExcelXMLParser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExcelXMLParser.h; sourceTree = "<group>"; };
+		CDB0F2D6164D0D94006B741A /* ExcelXMLParser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExcelXMLParser.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,10 +142,10 @@
 				CD17C55E162680A3003D4D9F /* ExcelSecondLevelTableViewController.m */,
 				CD17C55916267FCB003D4D9F /* ExcelRootTableViewController.h */,
 				CD17C55A16267FCB003D4D9F /* ExcelRootTableViewController.m */,
-				CD17C5701626B1ED003D4D9F /* PCXMLParser.h */,
+				CDB0F2D5164D0D94006B741A /* ExcelXMLParser.h */,
+				CDB0F2D6164D0D94006B741A /* ExcelXMLParser.m */,
 				CD17C5731626BADD003D4D9F /* ExcelXMLDataObject.h */,
 				CD17C5741626BADD003D4D9F /* ExcelXMLDataObject.m */,
-				CD17C5711626B1ED003D4D9F /* PCXMLParser.m */,
 				CD73A3C11624217A00FC7E70 /* PCViewController.h */,
 				CD73A3C21624217A00FC7E70 /* PCViewController.m */,
 				CD73A3AD1624217A00FC7E70 /* Supporting Files */,
@@ -300,8 +300,8 @@
 				CD17C55B16267FCC003D4D9F /* ExcelRootTableViewController.m in Sources */,
 				CD17C55F162680A3003D4D9F /* ExcelSecondLevelTableViewController.m in Sources */,
 				CD17C562162680D0003D4D9F /* ExcelDetailsViewController.m in Sources */,
-				CD17C5721626B1ED003D4D9F /* PCXMLParser.m in Sources */,
 				CD17C5751626BADD003D4D9F /* ExcelXMLDataObject.m in Sources */,
+				CDB0F2D7164D0D94006B741A /* ExcelXMLParser.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,7 +354,7 @@
 		CD73A3D91624217B00FC7E70 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -372,6 +372,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				"HEADER_SEARCH_PATHS[arch=*]" = /Users/patrick/Desktop/iPhoneApps/ExcelFunctions;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -381,7 +382,7 @@
 		CD73A3DA1624217B00FC7E70 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -392,6 +393,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				"HEADER_SEARCH_PATHS[arch=*]" = /Users/Patrick/Desktop/iPhoneApps/ExcelFunctions/;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
@@ -404,6 +406,7 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ExcelFunctions/ExcelFunctions-Prefix.pch";
+				"HEADER_SEARCH_PATHS[arch=*]" = /Users/Patrick/Desktop/iPhoneApps/ExcelFunctions/;
 				INFOPLIST_FILE = "ExcelFunctions/ExcelFunctions-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -415,6 +418,7 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ExcelFunctions/ExcelFunctions-Prefix.pch";
+				"HEADER_SEARCH_PATHS[arch=*]" = /Users/Patrick/Desktop/iPhoneApps/ExcelFunctions/;
 				INFOPLIST_FILE = "ExcelFunctions/ExcelFunctions-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
